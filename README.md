@@ -1,7 +1,6 @@
 
 # Java Developer Interview Preparation
 
-**Interview Date:** Friday, October 30, 2026
 
 ## 1. Core Java — Must Know
 
